@@ -1,0 +1,12 @@
+{
+    "MAE": 0.18564311861356408,
+    "R2": 0.7087586264394168,
+    "OOB_R2": 0.7756306132363008,
+    "Best_Params": {
+        "max_depth": 6,
+        "max_features": 0.8,
+        "min_samples_leaf": 4,
+        "min_samples_split": 8,
+        "n_estimators": 654
+    }
+}
